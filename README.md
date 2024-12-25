@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arkit-k&label=Profile%20views&color=0e75b6&style=flat" alt="arkit-k" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arkit-k" alt="arkit-k" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/arkit_k" target="blank"><img src="https://img.shields.io/twitter/follow/arkit_k?logo=twitter&style=for-the-badge" alt="arkit_k" /></a> </p>
 
 <p><img align="center" src="https://media1.tenor.com/m/ZeKfYL3dJQYAAAAd/anime-noragami.gif" alt="arkit-k" /></p>
