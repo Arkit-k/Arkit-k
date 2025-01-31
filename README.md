@@ -1,10 +1,10 @@
 ## Hi there! 👋
 
-I'm **Arkit Karmokar**, a passionate developer with a knack for creating efficient and elegant solutions. I love exploring new technologies and honing my skills in web development.
+I'm **Arkit Karmokar**, a passionate developer with a knack for creating efficient and elegant solutions. I love exploring new technologies and honing my skills in web development ,Artificial intelligence and machine learning
 
 ## About Me
 
-I'm a software developer with experience in building web applications using JavaScript and Python. While I don't have a specific location or current company mentioned, I am constantly striving to improve my knowledge and expertise in the tech field.
+I'm a software developer with experience in building web applications using JavaScript and Python. While I don't have a specific location, I am constantly striving to improve my knowledge and expertise in the tech field.
 
 ## Skills & Technologies
 
@@ -36,6 +36,7 @@ nodejs,express,mongodb,html,css,react,postgres,git,docker,ts,py,nextjs,aws,jenki
 
 Currently, I do not have any blog posts published. Stay tuned for future updates!
 
-## Connect with Me
+## Connect with Me 
 
-{}
+**twitter** https://x.com/home?lang=en-in
+**linkdin** https://www.linkedin.com/in/arkit-karmokar-907493246/
