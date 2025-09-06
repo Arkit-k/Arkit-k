@@ -1,4 +1,5 @@
 # 💫 About Me:
+Hi i am arkit karmokar
 I'm a web developer passionate about AI, ML, and building highly secure applications. I love building and constantly push myself to improve. Currently, I'm working with TypeScript, Node.js, Express, Prisma, and Supabase while exploring Rust for security-focused development. I also enjoy freelancing and building innovative projects, including AI-powered bots and full-stack applications. My goal is to create impactful technology that helps people and makes a difference.
 
 
